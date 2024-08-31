@@ -1,0 +1,8 @@
+requests
+urllib3
+sseclient-py
+pymysql
+opencv-python
+Pillow
+numpy
+scikit-learn
